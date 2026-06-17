@@ -1,0 +1,56 @@
+[
+  {
+    "id": "prod_001",
+    "name": "Nike Waffle Debut",
+    "description": "Retro gets modernized in the Nike Waffle Debut. Remember that smooth nylon and suede combination...",
+    "category": "Shoes",
+    "price": 80.00,
+    "stock": 218,
+    "imageUrl": "https://app.kicksonfire.com/kofapp/upload/events_master_images/nike-waffle-debut-light-stone-rattan.png"
+  },
+  {
+    "id": "prod_002",
+    "name": "Nike Tech",
+    "description": "Crafted with stretchy, breathable material, the Nike Tech Woven Jacket offers a supportive fit and feel.",
+    "category": "Clothing",
+    "price": 130.83,
+    "stock": 196,
+    "imageUrl": "https://cms.brnstc.de/product_images/1122x1536_retina/cpne/media/images/product/26/4/100322831116000_0_1776902400000.jpg"
+  },
+  {
+    "id": "prod_003",
+    "name": "Nike V2K Run New",
+    "description": "The Nike Elite Crew Basketball Socks offer a supportive fit and feel with targeted cushioning.",
+    "category": "Others Product",
+    "price": 16.50,
+    "stock": 123,
+    "imageUrl": "https://static.nike.com/a/images/t_web_pdp_936_v2/f_auto,u_9ddf04c7-2a9a-4d76-add1-d15af8f0263d,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/2de39bdc-8bb5-4906-8710-b49f3ba8d320/U+NK+ELITE+CREW+132.png"
+  },
+  {
+    "id": "prod_004",
+    "name": "Nike P-6000",
+    "description": "The Nike P-6000 draws on the 2006 Nike Air Pegasus, bringing a mashup of Pegasus history to life.",
+    "category": "Shoes",
+    "price": 115.28,
+    "stock": 121,
+    "imageUrl": "https://static.nike.com/a/images/t_default/6c916724-b326-476d-87a5-2b57d667a0f3/NIKE+P-6000.png"
+  },
+  {
+    "id": "prod_005",
+    "name": "Nike Zoom Vomero Roam",
+    "description": "Designed for city conditions, this winterized version equips you with water-repellent materials.",
+    "category": "Shoes",
+    "price": 187.43,
+    "stock": 119,
+    "imageUrl": "https://www.nike.com.kw/dw/image/v2/BDVB_PRD/on/demandware.static/-/Sites-akeneo-master-catalog/default/dw69394305/nk/a8a/e/6/6/e/9/a8ae66e9_92bf_41bc_ab98_b33828503caa.jpg?sw=700&sh=700&sm=fit&q=100&strip=false"
+  },
+  {
+    "id": "prod_006",
+    "name": "Men's Fleece Cargo Pants",
+    "description": "Clean meets casual with these brushed fleece cargo pants, offering lightweight warmth and storage.",
+    "category": "Clothing",
+    "price": 65.42,
+    "stock": 192,
+    "imageUrl": "https://www.nike.qa/dw/image/v2/BDVB_PRD/on/demandware.static/-/Sites-akeneo-master-catalog/default/dw2b477cd9/nk/d99/f/b/1/1/2/d99fb112_8324_40d6_a7d6_fdf95fb424b2.jpg?sw=700&sh=700&sm=fit&q=100&strip=false"
+  }
+]
